@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@tailwind utilities;
+
+@theme {
+    --breakpoint-sm:480px;
+    --breakpoint-md:790px;
+    --breakpoint-lg:1000px;
+    --breakpoint-xl:1440px;
+    --font-sams:"sans-serif"
+    --color-prim: #1da1f2;
+}
+
